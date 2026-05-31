@@ -102,12 +102,15 @@ engineer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By The Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=InderParmar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EA043&icon_color=2EA043&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InderParmar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EA043&text_color=ffffff" />
+![Tests Built](https://img.shields.io/badge/Tests_Built-275%2B-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Automated Tests](https://img.shields.io/badge/Automated_Tests-155%2B-2EA043?style=for-the-badge&logo=selenium&logoColor=white)
+![Live Frameworks](https://img.shields.io/badge/Live_Frameworks-5-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![CI Executions](https://img.shields.io/badge/CI_Executions-102_per_push-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![Perf Baseline](https://img.shields.io/badge/Perf_Baseline-83ms_avg_·_0%25_failures-8B5CF6?style=for-the-badge&logo=speedtest&logoColor=white)
 
 </div>
 
