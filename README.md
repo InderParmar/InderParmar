@@ -125,7 +125,23 @@ engineer = {
 - Functional · regression · integration · API testing for production web app in regulated environment
 
 ---
+## 🎓 Certifications
 
+<div align="center">
+
+[![ISTQB CTFL](https://img.shields.io/badge/ISTQB_CTFL_v4.0-Certified_Tester-FF6B35?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.istqb.org/)
+[![PMI](https://img.shields.io/badge/PMI-Project_Management_Ready™-6C3483?style=for-the-badge&logo=projectmanagement&logoColor=white)](https://www.pmi.org/)
+[![SDLC](https://img.shields.io/badge/LinkedIn_Learning-SDLC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)
+
+</div>
+
+| Certification | Issuer | Date |
+|---|---|---|
+| ISTQB Certified Tester – Foundation Level (CTFL v4.0) | ISTQB | June 2026 |
+| PMI Project Management Ready™ | Project Management Institute | February 2025 |
+| Software Development Life Cycle (SDLC) | LinkedIn Learning | February 2024 |
+
+---
 ## 📫 Let's Connect
 
 <div align="center">
